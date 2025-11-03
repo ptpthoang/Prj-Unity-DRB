@@ -1,21 +1,9 @@
-# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+[Bb]ee/
 [Ll]ogs/
 UserSettings/
-MemoryCaptures/
-
-# Artifacts & caches
 *.pdb
-*.obj
-*.ilk
-*.log
-
-# Bee (Unity build system)
-[Bb]ee/
-
-# Player cache (do not commit)
-Library/PlayerDataCache/
